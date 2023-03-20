@@ -1,1 +1,1 @@
-var yourArray=["arjun",33,true,"rahul",7];
+let yourArray=["arjun",33,true,"rahul",7];
